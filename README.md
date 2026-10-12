@@ -1,8 +1,9 @@
 # 김솜이
 
-## 먼작귀
+## skill
 
-![우사기](https://img1.kakaocdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/9ti3u2PgiC2hqQBbRptK7f5uoFA)
+**경력**
+1. 의료 EMR 개발
 
 <!--
 **kimsomyi/kimsomyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
