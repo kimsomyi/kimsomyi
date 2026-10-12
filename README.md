@@ -1,4 +1,8 @@
-## Hi there 👋
+# 김솜이
+
+## 먼작귀
+
+![우사기](https://img1.kakaocdn.net/thumb/R1280x0.fwebp/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/9ti3u2PgiC2hqQBbRptK7f5uoFA)
 
 <!--
 **kimsomyi/kimsomyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
