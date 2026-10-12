@@ -3,6 +3,8 @@
 ## skill
 
 ![my-skill](https://skillicons.dev/icons?i=py,js)
+![github](https://img.shields.io/badge/github-repo-blue?logo=github)
+
 
 <!--
 **kimsomyi/kimsomyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
