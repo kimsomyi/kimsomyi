@@ -2,8 +2,7 @@
 
 ## skill
 
-**경력**
-1. 의료 EMR 개발
+![my-skill](https://skillicons.dev/icons?i=py,js)
 
 <!--
 **kimsomyi/kimsomyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
