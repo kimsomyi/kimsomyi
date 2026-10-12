@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=김솜이%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=timeAuto&height=130&section=header&text=김솜이&fontSize=90)
 
 ## skill
 
